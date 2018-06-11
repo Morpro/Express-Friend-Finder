@@ -1,0 +1,22 @@
+{
+  "name": "express-friend-finder",
+  "version": "1.0.0",
+  "description": "a friend compatibility test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morpro/Express-Friend-Finder.git"
+  },
+  "author": "Yamil Morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Morpro/Express-Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/Morpro/Express-Friend-Finder#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
